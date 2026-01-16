@@ -1,0 +1,19 @@
+/* CSS for the TUI Intro Screen */
+
+#splash-container {
+    align: center middle;
+}
+
+#title-container {
+    align: center middle;
+    width: 100%;
+}
+
+#button-container {
+    align: center middle;
+    border: heavy blue;
+}
+
+.button {
+    margin: 1;
+}
